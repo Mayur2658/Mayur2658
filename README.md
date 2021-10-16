@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 -->
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur2658&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur2658&layout=compact&theme=darcula&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur2658&layout=compact&theme=github_dark&langs_count=10)
 
