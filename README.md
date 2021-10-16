@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur2658&layout=compact&theme=github_dark&langs_count=10)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayur2658&repo=github-readme-stats)](https://github.com/Mayur2658/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayur2658&repo=EMS_Partner)](https://github.com/Mayur2658/EMS_Partner)
