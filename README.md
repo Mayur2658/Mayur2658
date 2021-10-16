@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Mayur !
+### Hi there 👋, I'am Mayur 
 
 <!--
 **Mayur2658/Mayur2658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur2658)]
+![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur2658)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur2658)
