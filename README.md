@@ -1,4 +1,9 @@
-### Hi there 👋, I'am Mayur 
+## Hi there 👋, I'am Mayur ##
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mayur2658)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developermayur/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mayurborkar20@gmail.com)
+&nbsp;
 
 <!--
 **Mayur2658/Mayur2658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
